@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gulshan-gaur&repo=Flask_GraphQL_MongoDB&theme=dark" />
 </a>
 
-<a href="https://github.com/Gulshan-gaur/PNEUMONIA_DETECTION&">
+<a href="https://github.com/Gulshan-gaur/PNEUMONIA_DETECTION">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gulshan-gaur&repo=PNEUMONIA_DETECTION&theme=dark" />
 
 </a>
