@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gulshan-gaur&label=Views&color=blue&style=plastic" alt="Gulshan-gaur" /> 
 <img src="https://komarev.com/ghpvc/?username=Gulshan-gaur&label=Visitors&color=blue&style=plastic" alt="Gulshan-gaur" /> </p>
 
+- 👨‍💼 Founder of Friday Inc.
 - 🐻 I am research enthusiastic in Artificial Intelligence.🧘🏻‍♂️
 - 🌱 I’m currently working on GraphQL and Flutter.
 - 😄 Pronouns: He/His
