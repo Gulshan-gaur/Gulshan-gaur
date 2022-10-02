@@ -4,6 +4,7 @@
 
 - 👨‍💼 Founder of Friday Inc.
 - 🐻 I am research enthusiastic in Artificial Intelligence.🧘🏻‍♂️
+- 🎮 Trying to learn Unreal Engine.
 - 🌱 I’m currently working on GraphQL and Flutter.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch rocket lunch videos 🚀.
