@@ -3,9 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Gulshan-gaur&label=Visitors&color=blue&style=plastic" alt="Gulshan-gaur" /> </p>
 
 - 👨‍💼 I am research enthusiastic in Artificial Intelligence.🧘🏻‍♂️
-- 🎮 Learning Unreal Engine and applying AI to Games.
-- 🌱 I’m currently working on GraphQL and Flutter.
-- 😄 Pronouns: He/His
+- 🎮 Applying AI to Games and Healthcare.
 - ⚡ Fun fact: I love to watch rocket lunch videos 🚀.
 
 **Languages and Tools:**  
